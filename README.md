@@ -8,3 +8,5 @@
 
 5.- Se utilizo 𝙪𝙨𝙚𝙎𝙩𝙖𝙩𝙚, 𝙪𝙨𝙚𝙈𝙚𝙢𝙤 𝙮 𝙪𝙨𝙚𝙀𝙛𝙛𝙚𝙘𝙩 , en este proyecto asi lo decidi para manejar estados, para la persistemcia de datos en 𝙡𝙤𝙘𝙖𝙡𝙎𝙩𝙤𝙧𝙖𝙜𝙚 y evitar renderizados dobles innecesarios.
 
+6.- Asi como compartir datos, información, funciones de componentes padres a hijos mediante 𝙋𝙧𝙤𝙥𝙨.
+
